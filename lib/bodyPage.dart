@@ -32,7 +32,7 @@ class _bodyPageState extends State<bodyPage> {
         
          items: const <BottomNavigationBarItem>[
            BottomNavigationBarItem(
-             backgroundColor: Colors.blueAccent,
+             backgroundColor: Colors.blue,
              icon: Icon(Icons.home),
              label: 'Home',
            ),
